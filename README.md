@@ -1,5 +1,7 @@
 # ASP.NET Core Modules Samples
 
+Source code for ASP.NET Core Modules prototype available at https://github.com/danroth27/AspNetCoreModules.
+
 ## Setup
 
 - Install [.NET Core 1.1 Preview 1](https://github.com/dotnet/core/blob/master/release-notes/preview-download.md).
