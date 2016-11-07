@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Modules;
 using Microsoft.AspNetCore.Identity.Module;
 
-namespace IdentityModule
+namespace Identity
 {
     public class Startup
     {
