@@ -1,7 +1,5 @@
-﻿{
+{
   "dependencies": {
-    "Microsoft.AspNetCore.Modules": "1.0.0-preview1-1",
-    "Microsoft.AspNetCore.Identity.Module": "1.0.0-preview1-1",
     "Microsoft.AspNetCore.Diagnostics": "1.1.0-preview1-final",
     "Microsoft.AspNetCore.Mvc": "1.1.0-preview1-final",
     "Microsoft.AspNetCore.Server.IISIntegration": "1.1.0-preview1-final",
@@ -17,7 +15,9 @@
       "version": "1.1.0-preview1-001100-00",
       "type": "platform"
     },
-    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.1.0-preview1-final"
+    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.1.0-preview1-final",
+    "Microsoft.AspNetCore.Modules": "1.0.0-preview1-2",
+    "Microsoft.AspNetCore.Identity.Module": "1.0.0-preview1-2"
   },
 
   "tools": {

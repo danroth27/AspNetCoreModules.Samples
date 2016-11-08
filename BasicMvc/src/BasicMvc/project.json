@@ -1,7 +1,7 @@
 ﻿{
   "dependencies": {
     "Microsoft.AspNetCore.Diagnostics": "1.1.0-preview1-final",
-    "Microsoft.AspNetCore.Modules": "1.0.0-preview1-1",
+    "Microsoft.AspNetCore.Modules": "1.0.0-preview1-2",
     "Microsoft.AspNetCore.Mvc": "1.1.0-preview1-final",
     "Microsoft.AspNetCore.Razor.Tools": {
       "version": "1.0.0-preview3-final",
@@ -22,7 +22,7 @@
       "type": "platform"
     },
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.1.0-preview1-final",
-    "Module1": "1.0.0-preview1-1"
+    "Module1": "1.0.0-preview1-2"
   },
 
   "tools": {

@@ -29,12 +29,8 @@ namespace Identity
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.Configure<IdentityModuleOptions>(options =>
-            {
-                options.ConnectionString = Configuration.GetConnectionString("DefaultConnection");
-            });
-
-            services.AddModules();
+            services.AddModules()
+                .ConfigureIdentityModule(Configuration);
 
             // Add framework services.
             services.AddMvc();
