@@ -29,7 +29,10 @@ namespace BasicMvc
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddModules(Configuration);
+            services.AddModules(options =>
+            {
+                options.UseConfiguration(Configuration);
+            });
 
             // Add framework services.
             services.AddMvc().IgnoreModules();
