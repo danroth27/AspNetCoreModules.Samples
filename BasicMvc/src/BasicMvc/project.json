@@ -1,7 +1,7 @@
 ﻿{
   "dependencies": {
     "Microsoft.AspNetCore.Diagnostics": "1.1.0",
-    "Microsoft.AspNetCore.Modules": "1.0.0-preview1-3",
+    "Microsoft.AspNetCore.Modules": "1.0.0-preview1-4",
     "Microsoft.AspNetCore.Mvc": "1.1.0",
     "Microsoft.AspNetCore.Razor.Tools": {
       "version": "1.1.0-preview4-final",
