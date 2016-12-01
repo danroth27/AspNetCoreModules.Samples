@@ -22,7 +22,7 @@
       "type": "platform"
     },
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.1.0",
-    "Module1": "1.0.0-preview1-3"
+    "Module1": "1.0.0-preview1-4"
   },
 
   "tools": {
